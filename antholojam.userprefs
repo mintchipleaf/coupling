@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerGoal.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MovementScript.cs" Line="31" Column="36" />
+      <File FileName="../basejump_unity/Assets/Scripts/PlayerMove.cs" Line="58" Column="5" />
+      <File FileName="Assets/Scripts/PlayerGoal.cs" Line="18" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
